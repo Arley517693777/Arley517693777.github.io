@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: 电影
 slug: movies
 date: 2020/02/12 11:26:00
