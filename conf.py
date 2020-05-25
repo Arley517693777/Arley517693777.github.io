@@ -53,11 +53,6 @@ nav = [
         "target": "_self"
     },
     {
-        "name": "电影",
-        "url": "${site_prefix}movie",
-        "target": "_self"
-    },
-    {
         "name": "读书",
         "url": "${site_prefix}read",
         "target": "_self"
