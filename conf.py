@@ -15,7 +15,7 @@ template = {
 }
 enable_jsdelivr = {
     "enabled": True,
-    "repo": "Arley517693777/arley@master"
+    "repo": "Arley517693777/arley@gh-pages"
 }
 
 # 站点设置
