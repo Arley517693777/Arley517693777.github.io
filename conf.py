@@ -14,7 +14,7 @@ template = {
     "path": "../Galileo"
 }
 enable_jsdelivr = {
-    "enabled": False,
+    "enabled": True,
     "repo": "Arley517693777/arley@gh-pages"
 }
 
@@ -53,13 +53,13 @@ nav = [
         "target": "_self"
     },
     {
-        "name": "读书",
-        "url": "${site_prefix}read",
+        "name": "电影",
+        "url": "${site_prefix}movie",
         "target": "_self"
     },
     {
-        "name": "电影",
-        "url": "${site_prefix}movie",
+        "name": "读书",
+        "url": "${site_prefix}read",
         "target": "_self"
     },
     {
