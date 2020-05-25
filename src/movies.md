@@ -14,18 +14,6 @@ tags:
 
 # 科幻
 
-## 已看清单
-[links]
-[星际穿越](https://movie.douban.com/subject/1889243/)+(https://img3.doubanio.com/view/photo/raw/public/p2206088801.jpg)
-[超时空接触](https://movie.douban.com/subject/1295647/)+(https://img1.doubanio.com/view/photo/raw/public/p453499268.jpg)
-[2001太空漫游](https://movie.douban.com/subject/1292226/)+(https://img9.doubanio.com/view/photo/raw/public/p2560717825.jpg)
-[源代码](https://movie.douban.com/subject/3075287/)+(https://img9.doubanio.com/view/photo/raw/public/p988260245.jpg)
-[明日边缘](https://movie.douban.com/subject/4746257/)+(https://img1.doubanio.com/view/photo/raw/public/p2185073849.jpg)
-[恐怖游轮](https://movie.douban.com/subject/3011051/)+(https://img9.doubanio.com/view/photo/raw/public/p462470694.jpg)
-[忌日快乐](https://movie.douban.com/subject/27027913/)+(https://img3.doubanio.com/view/photo/raw/public/p2510057340.jpg)
-[土拨鼠之日](https://movie.douban.com/subject/1300613/)+(https://img1.doubanio.com/view/photo/raw/public/p2493191199.jpg)
-[/links]
-
 ## 未看清单
 
 ### 豆瓣排行
