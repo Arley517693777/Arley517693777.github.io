@@ -1,0 +1,178 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN"><id>/</id><title>Arley's Blog</title><updated>2020-05-25T10:49:29.756890+08:06</updated><author><name>Arley</name><email>leon517693777@gmail.com</email></author><link href="/" rel="alternate"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><logo>https://cdn.jsdelivr.net/gh/Arley517693777/Arley517693777.github.io@master/arley.png</logo><subtitle>Living without an aim is like sailing without a compass。&lt;br&gt;生活没有目标，犹如航海没有罗盘。</subtitle><entry><id>/archives/Ghelper/</id><title>如何正确使用——谷歌上网助手（Ghelper）</title><updated>2020-05-25T10:49:29.757085+00:00</updated><author><name>Arley</name><email>leon517693777@gmail.com</email><uri>https://arley.cn</uri></author><content>&lt;h3&gt;目录&lt;/h3&gt;
+&lt;h3&gt;1.安装谷歌浏览器&lt;/h3&gt;
+&lt;h3&gt;2.安装谷歌上网助手（Ghelper）&lt;/h3&gt;
+&lt;h3&gt;3.注册购买&lt;/h3&gt;
+&lt;h3&gt;4.其他代理方式&lt;/h3&gt;
+&lt;hr&gt;
+&lt;h3&gt;1.安装谷歌浏览器&lt;/h3&gt;
+&lt;p&gt;在线安装官网：&lt;a href="https://www.google.cn/intl/zh-CN/chrome/" title="谷歌浏览器"&gt;https://www.google.cn/intl/zh-CN/chrome/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;离线安装官方：&lt;a href="https://www.google.cn/intl/zh-CN/chrome/?standalone=1&amp;amp;platform=win64" title="谷歌浏览器离线安装"&gt;https://www.google.cn/intl/zh-CN/chrome/?standalone=1&amp;amp;platform=win64&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;在正常官网地址后面添加：&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;code&gt;?standalone=1&amp;amp;platform=win64&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;离线安装网址的解释，"?standalone=1"指离线安装包，"platform=win64"指64位Windows 版本,&lt;/p&gt;
+&lt;p&gt;如果加上的只是“?standalone=1”可以用来下载32位的Chrome离线包。
+用“mac”替换“win”，就可以下载 Mac 版本.&lt;/p&gt;
+&lt;h3&gt;2.安装谷歌上网助手（Ghelper）&lt;/h3&gt;
+&lt;p&gt;官方网站：&lt;a href="http://googlehelper.net/&amp;quot;谷歌上网助手（Ghelper）&amp;quot;"&gt;http://googlehelper.net/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;下载之后解压待用，打开你的Chrome浏览器-更多工具-扩展程序页面，或者&lt;/p&gt;
+&lt;p&gt;直接在网址输入: chrome://extensions/&lt;/p&gt;
+&lt;p&gt;这个页面点击 "添加已解压的扩展程序",如果没有，在右边有一个 “开发者模式” 开关，打开.&lt;/p&gt;
+&lt;p&gt;选择本次下载包里的 ghelper_source 目录&lt;/p&gt;
+&lt;p&gt;确认后就行了.&lt;/p&gt;
+&lt;p&gt;Tips：建议装上源码包方式后，去 Chrome应用商店找到正式在线版本.安装正式线上版本后，回到扩展页面把刚才导入的已解压的包删除掉或停止.&lt;/p&gt;
+&lt;h3&gt;3.注册购买&lt;/h3&gt;
+&lt;p&gt;Ghelper未注册提供免费线路：&lt;/p&gt;
+&lt;p&gt;google.com google.de google.fr google.com.hk google.com.sg&lt;/p&gt;
+&lt;p&gt;google.com.tw google.co.jp google.com.za gstatic.com&lt;/p&gt;
+&lt;p&gt;......详情请点击Chrome浏览器右上角Ghelper扩展查看&lt;/p&gt;
+&lt;p&gt;注册购买会员&lt;/p&gt;
+&lt;p&gt;1个月会员¥ 15.99&lt;/p&gt;
+&lt;p&gt;3个月会员¥ 45.99&lt;/p&gt;
+&lt;p&gt;6个月会员¥ 85.99&lt;/p&gt;
+&lt;p&gt;1年会员¥ 159.99&lt;/p&gt;
+&lt;p&gt;目前连接仅支持支付宝。&lt;/p&gt;
+&lt;h3&gt;4.其他代理方式&lt;/h3&gt;
+&lt;p&gt;目前支持以下平台使用代理：&lt;em&gt;需要达到一定的等级开放其他平台代理&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;IOS&lt;/p&gt;
+&lt;p&gt;Android&lt;/p&gt;
+&lt;p&gt;Windows&lt;/p&gt;
+&lt;p&gt;MAC OS&lt;/p&gt;
+&lt;p&gt;Linux&lt;/p&gt;
+&lt;p&gt;比如，安卓用户，点击相应的平台，下载V2RayNG APP，&lt;/p&gt;
+&lt;p&gt;点击相应的平台后会有订阅地址，复制订阅地址至手机，点击APP左上角&lt;/p&gt;
+&lt;p&gt;订阅设置-右上角 + 粘贴订阅地址后，点击配置文件，右上角...更新订阅。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;最近更新代理软件——Surfboard，是目前安卓平台下支持协议最多速度表现最好的，支持了HTTPS代理.&lt;/p&gt;
+&lt;h4&gt;使用方法:&lt;/h4&gt;
+&lt;p&gt;打开surfboard 后,点底部第三个图标【配制】-&amp;gt;点右上角红色按钮-&amp;gt; 出现菜单里选第一个&lt;/p&gt;
+&lt;p&gt;【使用链接下载】,会弹窗一个输入框，,粘上Surfboard的传用配制URL，点确定,等一会会下载成&lt;/p&gt;
+&lt;p&gt;功，会显示出所有的配制信息,这时再点右下角的确定按钮保存。保存时会让你输入个名称，写&lt;/p&gt;
+&lt;p&gt;Ghelper 就行了。使用时，是进入第二个图标，选一个线路。然后点第一个图标右上角连接。&lt;/p&gt;
+</content><link href="/archives/Ghelper/" rel="alternate"/><published>2019-11-11T22:22:00+08:06</published></entry><entry><id>/archives/ffmpeg/</id><title>ffmpeg常用教程</title><updated>2020-05-25T10:49:29.757044+00:00</updated><author><name>Arley</name><email>leon517693777@gmail.com</email><uri>https://arley.cn</uri></author><content>&lt;h2&gt;一、安装&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;ffmpeg官网：&lt;a href="https://ffmpeg.zeranoe.com/builds/"&gt;https://ffmpeg.zeranoe.com/builds/&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;该网站中的FFMPEG分为3个版本：Static，Shared，Dev。&lt;/p&gt;
+&lt;p&gt;前两个版本可以直接在命令行中使用，他们的区别在于&lt;/p&gt;
+&lt;p&gt;Static里面只有3个应用程序：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ffmpeg.exe&lt;/li&gt;
+&lt;li&gt;ffplay.exe&lt;/li&gt;
+&lt;li&gt;ffprobe.exe&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Shared里面除了3个应用程序：ffmpeg.exe，ffplay.exe，ffprobe.exe之外，还有一些Dll，比如说avcodec-54.dll之类的。&lt;/p&gt;
+&lt;p&gt;Shared里面的exe体积很小，他们在运行的时候，到相应的Dll中调用功能。&lt;/p&gt;
+&lt;p&gt;Dev版本是用于开发的，里面包含了库文件xxx.lib以及头文件xxx.h，这个版本不包含exe文件。&lt;/p&gt;
+&lt;p&gt;这里我们使用static版本，下载zip压缩文件，解压到指定目录，利用Windows自带命令提示符CMD，CD到解压的路径，&lt;/p&gt;
+&lt;p&gt;例如：D:\ffmpeg201200216\bin，这样bin下面的ffmpeg.exe就可以在命令行中使用了，可以用ffmpeg -version测试一下：&lt;/p&gt;
+&lt;p&gt;放一个mp4视频，然后把声音提取到output.acc，用命令测试一下：&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;ffmpeg -i movie.mp4 -acodec copy -vn output.aac&lt;/code&gt;&lt;/p&gt;
+&lt;h2&gt;二、常用命令&lt;/h2&gt;
+&lt;p&gt;主要参数：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;-i 设定输入流 &lt;/li&gt;
+&lt;li&gt;-f 设定输出格式 &lt;/li&gt;
+&lt;li&gt;-ss 开始时间 &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;视频参数：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;-b 设定视频流量(码率)，默认为200Kbit/s &lt;/li&gt;
+&lt;li&gt;-r 设定帧速率，默认为25 &lt;/li&gt;
+&lt;li&gt;-s 设定画面的宽与高 &lt;/li&gt;
+&lt;li&gt;-aspect 设定画面的比例 &lt;/li&gt;
+&lt;li&gt;-vn 不处理视频 &lt;/li&gt;
+&lt;li&gt;-vcodec 设定视频编解码器，未设定时则使用与输入流相同的编解码器&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;音频参数：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;-ar 设定采样率 &lt;/li&gt;
+&lt;li&gt;-ac 设定声音的Channel数 &lt;/li&gt;
+&lt;li&gt;-acodec 设定声音编解码器，未设定时则使用与输入流相同的编解码器 &lt;/li&gt;
+&lt;li&gt;-an 不处理音频&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;1. 视频格式转换&lt;/h3&gt;
+&lt;p&gt;比如一个avi文件，想转为mp4。&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;ffmpeg -i input.avi output.mp4&lt;/code&gt;&lt;/p&gt;
+&lt;h3&gt;2. 提取音频&lt;/h3&gt;
+&lt;p&gt;比如一个相声.MP4文件,只想听声音，提取音频为.ACC格式：&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;ffmpeg -i 相声.mp4 -acodec aac -vn output.aac&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;(-vn 不处理视频 )&lt;/p&gt;
+&lt;h3&gt;3. 提取视频&lt;/h3&gt;
+&lt;p&gt;比如一个相声.MP4文件,只想看视频影像不听声音：&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;ffmpeg -i 相声.mp4 -vcodec copy -an output.mp4&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;（-an 不处理音频）&lt;/p&gt;
+&lt;h3&gt;4. 视频剪切&lt;/h3&gt;
+&lt;p&gt;截取视频从时间为00:00:15开始，截取5秒钟的视频：&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;ffmpeg -ss 00:00:15 -t 00:00:05 -i input.mp4 -vcodec copy -acodec copy output.mp4&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;-ss表示开始切割的时间，-t表示要切多少。&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;ffmpeg 在切割视频的时候无法做到时间绝对准确，因为视频编码中关键帧（I帧）和跟随它的B帧、P帧是无法分割开的，否则就需要进行重新帧内编码，会让视频体积增大。所以，如果切割的位置刚好在两个关键帧中间，那么 ffmpeg 会向前/向后切割，所以最后切割出的 chunk 长度总是会大于等于应有的长度。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3&gt;5.码率控制&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;码率： bitrate = file size / duration&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;比如一个文件20.8M，时长1分钟，那么，码率就是：&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;biterate = 20.8M bit/60s = 20.8&lt;/em&gt;1024&lt;em&gt;1024&lt;/em&gt;8 bit/60s= 2831Kbps*&lt;/p&gt;
+&lt;p&gt;ffmpg控制码率有3种选择:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;-minrate&lt;/li&gt;
+&lt;li&gt;-b:v&lt;/li&gt;
+&lt;li&gt;-maxrate&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;-b:v 主要是控制平均码率。 比如一个视频源的码率太高了，有10Mbps，文件太大，想把文件弄小一点，但是又不破坏分辨率:&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;ffmpeg -i input.mp4 -b:v 2000k -bufsize 2000k output.mp4&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;-minrate -maxrate 设置码率波动阈值&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;ffmpeg -i input.mp4 -b:v 2000k -bufsize 2000k -maxrate 2500k output.mp4&lt;/code&gt;&lt;/p&gt;
+&lt;h3&gt;6. 视频编码格式转换&lt;/h3&gt;
+&lt;p&gt;相声.mp4的编码是MPEG4，转换H264编码：&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;ffmpeg -i input.mp4 -vcodec h264 output.mp4&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;相反&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;ffmpeg -i input.mp4 -vcodec mpeg4 output.mp4&lt;/code&gt;&lt;/p&gt;
+&lt;h3&gt;7.为视频添加logo&lt;/h3&gt;
+&lt;p&gt;水印logo.png贴到一个视频上，那可以用如下命令：&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;ffmpeg -i input.mp4 -i logo.png -filter_complex overlay output.mp4&lt;/code&gt;&lt;/p&gt;
+&lt;h3&gt;8. 旋转视频&lt;/h3&gt;
+&lt;p&gt;在手机上录的视频，在电脑放，是颠倒的，需要旋转90度。&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;ffmpeg -i 相声.mp4 -vf transpose=1 rotate8.mp4&lt;/code&gt;&lt;/p&gt;
+&lt;h2&gt;三、其他命令&lt;/h2&gt;
+&lt;p&gt;官方文档：&lt;a href="https://www.ffmpeg.org/ffmpeg.html" title="ffmpeg官方文档"&gt;https://www.ffmpeg.org/ffmpeg.html&lt;/a&gt;&lt;/p&gt;
+</content><link href="/archives/ffmpeg/" rel="alternate"/><published>2020-02-12T10:10:00+08:06</published></entry><entry><id>/archives/movies/</id><title>电影</title><updated>2020-05-25T10:49:29.756964+00:00</updated><author><name>Arley</name><email>leon517693777@gmail.com</email><uri>https://arley.cn</uri></author><content>&lt;h1&gt;科幻&lt;/h1&gt;
+&lt;h2&gt;未看清单&lt;/h2&gt;
+&lt;h3&gt;豆瓣排行&lt;/h3&gt;
+&lt;p&gt;【评分最高的10部科幻电影】
+《盗梦空间》、《机器人总动员》、《星际穿越》、《楚门的世界》、《超感猎杀：完结特别篇》、
+《蝙蝠侠：黑暗骑士》、《攻壳机动队2：无罪》、《黑客帝国》、《红辣椒》、《攻壳机动队》&lt;/p&gt;
+&lt;p&gt;【人气最旺的10部科幻电影】
+《黑客帝国》、《盗梦空间》、《星际穿越》、《机器人总动员》、《阿凡达》、
+《楚门的世界》、《头号玩家》、《V字仇杀队》、《源代码》、《蝴蝶效应》&lt;/p&gt;
+&lt;p&gt;【评分最高的11部硬科幻电影】
+《星际穿越》、《黑客帝国 》、《头号玩家 》、《 2001太空漫游》、《 阿凡达》、《 人工智能》
+《 黑客帝国3：矩阵革命》、《 月球》、《机器管家》、《源代码》、《火星救援》&lt;/p&gt;
+&lt;p&gt;【人气最高的10部硬科幻电影】
+《黑客帝国》、《星际穿越》、《阿凡达 》、《头号玩家》、《源代码》、《火星救援》、
+《X战警：逆转未来》、《变形金刚》、《银翼杀手2049》、《人工智能》&lt;/p&gt;
+&lt;p&gt;【评分最高的10部科幻动画片】
+《机器人总动员》、《攻壳机动队2：无罪》、《红辣椒》、《攻壳机动队》、《回忆三部曲》、
+《攻壳机动队SSS》、《黑客帝国动画版》、《超能陆战队》、《穿越时空的少女》、《钢铁巨人》&lt;/p&gt;
+&lt;p&gt;【人气最旺的10部科幻动画片】
+《机器人总动员》、《超能陆战队》、《穿越时空的少女》、《红辣椒》、《攻壳机动队》、
+《最终幻想7：圣子降临》、《攻壳机动队2：无罪》、《回忆三部曲》、《阿基拉》、《大都会（日本，2001）》&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;科幻分类&lt;/h3&gt;
+&lt;p&gt;第一类·机器人与统治人类
+代表作：《机器人总动员》 《未来战警》《我，机器人》《鹰眼》《黑客帝国系列》《人工智能》&lt;/p&gt;
+&lt;p&gt;第二类·关于人类基因的科幻
+代表作：《逃出克隆岛》《千钧一发》《永无止境》《本杰明巴顿奇事》《I型起源》《超体》&lt;/p&gt;
+&lt;p&gt;第三类·记忆意识类
+代表作：《记忆碎片》《记忆裂痕》《盗梦空间》《搏击俱乐部》&lt;/p&gt;
+&lt;p&gt;第四类· 意识生命类
+代表作：《遗落战境》《月球》《源代码》《超能查派》《超验骇客》《异次元骇客》《创战纪》&lt;/p&gt;
+&lt;p&gt;第五类·外太空与外星人
+代表作：《星球大战系列》《星际迷航系列》《星河战队》《安德的游戏》&lt;/p&gt;
+&lt;p&gt;第六类：时间穿越类
+代表作：《黑洞频率》《蝴蝶效应》《时空线索》《雷霆万钧》《环形使者》《时光机器》&lt;/p&gt;
+&lt;p&gt;第七类· 特殊宇宙观
+代表作：《无姓之人》《星际穿越》《彗星来的那一夜》《超时空接触》《云图》&lt;/p&gt;
+&lt;p&gt;第八类· 灾难科幻类
+代表作：《2012》《日本沉没》《后天》《神秘代码》《柯洛弗档案》《致命感冒》《我是传奇》&lt;/p&gt;
+&lt;p&gt;第九类· 怪兽类科幻
+《人猿星球》《哥斯拉》《环太平洋》《侏罗纪系列》《猩球崛起》&lt;/p&gt;
+</content><link href="/archives/movies/" rel="alternate"/><published>2020-02-12T11:26:00+08:06</published></entry></feed>
