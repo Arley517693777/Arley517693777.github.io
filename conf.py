@@ -58,6 +58,11 @@ nav = [
         "target": "_self"
     },
     {
+        "name": "电影",
+        "url": "${site_prefix}read",
+        "target": "_self"
+    },
+    {
         "name": "归档",
         "url": "${site_prefix}archives/",
         "target": "_self"
