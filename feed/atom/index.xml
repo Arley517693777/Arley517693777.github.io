@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN"><id>/</id><title>Arley's Blog</title><updated>2020-05-25T12:10:33.055992+08:06</updated><author><name>Arley</name><email>leon517693777@gmail.com</email></author><link href="/" rel="alternate"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><logo>https://cdn.jsdelivr.net/gh/Arley517693777/Arley517693777.github.io@master/arley.png</logo><subtitle>Living without an aim is like sailing without a compass。&lt;br&gt;生活没有目标，犹如航海没有罗盘。</subtitle><entry><id>/archives/Ghelper/</id><title>如何正确使用——谷歌上网助手（Ghelper）</title><updated>2020-05-25T12:10:33.056086+00:00</updated><author><name>Arley</name><email>leon517693777@gmail.com</email><uri>https://arley.cn</uri></author><content>&lt;h3&gt;目录&lt;/h3&gt;
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN"><id>/</id><title>Arley's Blog</title><updated>2020-05-25T12:12:18.134029+08:06</updated><author><name>Arley</name><email>leon517693777@gmail.com</email></author><link href="/" rel="alternate"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><logo>https://cdn.jsdelivr.net/gh/Arley517693777/Arley517693777.github.io@master/arley.png</logo><subtitle>Living without an aim is like sailing without a compass。&lt;br&gt;生活没有目标，犹如航海没有罗盘。</subtitle><entry><id>/archives/Ghelper/</id><title>如何正确使用——谷歌上网助手（Ghelper）</title><updated>2020-05-25T12:12:18.134174+00:00</updated><author><name>Arley</name><email>leon517693777@gmail.com</email><uri>https://arley.cn</uri></author><content>&lt;h3&gt;目录&lt;/h3&gt;
 &lt;h3&gt;1.安装谷歌浏览器&lt;/h3&gt;
 &lt;h3&gt;2.安装谷歌上网助手（Ghelper）&lt;/h3&gt;
 &lt;h3&gt;3.注册购买&lt;/h3&gt;
@@ -50,7 +50,7 @@
 &lt;p&gt;【使用链接下载】,会弹窗一个输入框，,粘上Surfboard的传用配制URL，点确定,等一会会下载成&lt;/p&gt;
 &lt;p&gt;功，会显示出所有的配制信息,这时再点右下角的确定按钮保存。保存时会让你输入个名称，写&lt;/p&gt;
 &lt;p&gt;Ghelper 就行了。使用时，是进入第二个图标，选一个线路。然后点第一个图标右上角连接。&lt;/p&gt;
-</content><link href="/archives/Ghelper/" rel="alternate"/><published>2019-11-11T22:22:00+08:06</published></entry><entry><id>/archives/ffmpeg/</id><title>ffmpeg常用教程</title><updated>2020-05-25T12:10:33.056039+00:00</updated><author><name>Arley</name><email>leon517693777@gmail.com</email><uri>https://arley.cn</uri></author><content>&lt;h2&gt;一、安装&lt;/h2&gt;
+</content><link href="/archives/Ghelper/" rel="alternate"/><published>2019-11-11T22:22:00+08:06</published></entry><entry><id>/archives/ffmpeg/</id><title>ffmpeg常用教程</title><updated>2020-05-25T12:12:18.134099+00:00</updated><author><name>Arley</name><email>leon517693777@gmail.com</email><uri>https://arley.cn</uri></author><content>&lt;h2&gt;一、安装&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;ffmpeg官网：&lt;a href="https://ffmpeg.zeranoe.com/builds/"&gt;https://ffmpeg.zeranoe.com/builds/&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;该网站中的FFMPEG分为3个版本：Static，Shared，Dev。&lt;/p&gt;
 &lt;p&gt;前两个版本可以直接在命令行中使用，他们的区别在于&lt;/p&gt;
