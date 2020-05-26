@@ -95,9 +95,10 @@ valine = {
 head_addon = r'''
 <meta http-equiv="x-dns-prefetch-control" content="on">
 <link rel="dns-prefetch" href="//cdn.jsdelivr.net" />
-<link rel="shortcut icon" href="https://cdn.jsdelivr.net/gh/Arley517693777/Arley517693777.github.io@master/favicon.ico">
+<link rel="shortcut icon" href="https://arley517693777.github.io./favicon.ico">
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+<script type="text/javascript" src="https://arley517693777.github.io./assets/jquery.1.4.2-min.js"></script>
 <script>
 var _hmt = _hmt || [];
 (function() {
@@ -111,4 +112,4 @@ var _hmt = _hmt || [];
 
 footer_addon = '本站总访问量<span id="busuanzi_value_site_pv"><i class="fa fa-spinner"></i></span> Hits'
 
-body_addon = '<span style="font-size:14px;"><a href="#">回到最顶端</a></span>'
+body_addon = '<script type="text/javascript" src="https://arley517693777.github.io./assets/scrolltopcontrol.js"></script>'
