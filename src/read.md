@@ -13,7 +13,7 @@ tags:
 ---
 
 <audio autoplay="autoplay" loop="loop" src="https://sharefs.yun.kugou.com/202002131153/885519fe0931ee109ff2c7dad3dd47cd/G167/M05/1B/0B/5w0DAF1VBQCAW9eVACmpIs7Dr8I167.mp3"></audio>
-
+<script src="https://gist.github.com/xfdywy/57b61f13a1a4e48d69c611bdbff407d2.js"></script>
 
 ## 想读清单
 [links]
