@@ -31,11 +31,6 @@ language = 'zh-CN'
 background_img = "${static_prefix}bg.jpg"
 external_links = [
     {
-        "name": "Arley公众号",
-        "url": "http://mp.weixin.qq.com/mp/homepage?__biz=MzIzMTU3NTYwMw==&hid=3&sn=d96053e0ee2ce78dfd76f091f0a145f1&scene=18#wechat_redirect",
-        "brief": "已注销-历史文章"
-    },
-    {
         "name": "趣味网页",
         "url": "https://arley517693777.github.io/Dog/",
         "brief": "滑稽"
