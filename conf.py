@@ -111,4 +111,4 @@ var _hmt = _hmt || [];
 
 footer_addon = '本站总访问量<span id="busuanzi_value_site_pv"><i class="fa fa-spinner"></i></span> Hits'
 
-body_addon = ''
+body_addon = '<span style="font-size:14px;"><a href="#">回到最顶端</a></span>'
