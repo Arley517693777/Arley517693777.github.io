@@ -13,7 +13,7 @@ tags:
 
 ## 一、安装
 
-**ffmpeg官网：[https://ffmpeg.zeranoe.com/builds/](https://ffmpeg.zeranoe.com/builds/)** 
+**ffmpeg官网：[https://www.ffmpeg.org/download.html](https://www.ffmpeg.org/download.html)** 
 
 该网站中的FFMPEG分为3个版本：Static，Shared，Dev。
 
