@@ -36,7 +36,7 @@ external_links = [
         "brief": "滑稽"
     },
     {
-        "name": "2020祝福",
+        "name": "2021新年祝福",
         "url": "https://arley517693777.github.io/2020/",
         "brief": "新年祝福看云烟花"
     }
