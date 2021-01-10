@@ -66,19 +66,9 @@ nav = [
 
 social_links = [
     {
-        "name": "Twitter",
-        "url": "https://twitter.com/Leon517693777?s=05",
-        "icon": "gi gi-twitter"
-    },
-    {
         "name": "GitHub",
         "url": "https://github.com/Arley517693777",
         "icon": "gi gi-github"
-    },
-    {
-        "name": "Telegram",
-        "url": "https://t.me/Arley517693777",
-        "icon": "gi gi-telegram"
     }
 ]
 
