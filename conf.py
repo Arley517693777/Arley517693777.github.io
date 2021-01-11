@@ -32,12 +32,12 @@ background_img = "${static_prefix}bg.jpg"
 external_links = [
     {
         "name": "趣味网页",
-        "url": "https://arley517693777.github.io/Dog/",
+        "url": "https://arley.cn/Dog/",
         "brief": "滑稽"
     },
     {
         "name": "2021新年祝福",
-        "url": "https://arley517693777.github.io/2020/",
+        "url": "https://arley.cn/2021/",
         "brief": "新年祝福看云烟花"
     }
 ]
