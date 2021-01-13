@@ -103,6 +103,4 @@ var _hmt = _hmt || [];
 
 footer_addon = '本站总访问量<span id="busuanzi_value_site_pv"><i class="fa fa-spinner"></i></span> Hits'
 
-body_addon = '
-<div class="back-to-top cd-top faa-float animated cd-is-visible" style="top: -900px;"></div>
-<script type="text/javascript" src="https://arley517693777.github.io./assets/szgotop.js"></script>'
+body_addon = '<div class="back-to-top cd-top faa-float animated cd-is-visible" style="top: -900px;"></div><script type="text/javascript" src="https://arley517693777.github.io./assets/szgotop.js"></script>'
