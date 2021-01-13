@@ -88,7 +88,7 @@ head_addon = r'''
 <link rel="shortcut icon" href="https://arley517693777.github.io./favicon.ico">
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
-<link rel="stylesheet" type="text/css" href="css/szgotop.css" />
+<link rel="stylesheet" type="text/css" href="https://arley517693777.github.io./assets/szgotop.css" />
 <script src="https://qncdn.wanshifu.com/wshifu-user/js/jquery-3.2.1.min.js"></script>
 <script>
 var _hmt = _hmt || [];
