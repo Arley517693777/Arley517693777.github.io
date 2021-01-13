@@ -85,11 +85,11 @@ valine = {
 head_addon = r'''
 <meta http-equiv="x-dns-prefetch-control" content="on">
 <link rel="dns-prefetch" href="//cdn.jsdelivr.net" />
-<link rel="shortcut icon" href="https://arley517693777.github.io./favicon.ico">
+<link rel="shortcut icon" href="https://cdn.jsdelivr.net/gh/Arley517693777/Arley517693777.github.io/favicon.ico">
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 <!-- 悬挂的喵 -->
-<link rel="stylesheet" type="text/css" href="https://arley517693777.github.io/gotop/css/szgotop.css" />
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/Arley517693777/gotop/css/szgotop.css" />
 <script>
 var _hmt = _hmt || [];
 (function() {
@@ -103,4 +103,4 @@ var _hmt = _hmt || [];
 
 footer_addon = '本站总访问量<span id="busuanzi_value_site_pv"><i class="fa fa-spinner"></i></span> Hits'
 
-body_addon = '<script type="text/javascript" src="https://arley517693777.github.io/gotop/js/szgotop.js"></script><script type="text/javascript" src="https://arley517693777.github.io/gotop/js/jquery-3.2.1.min.js"></script><div class="back-to-top cd-top faa-float animated cd-is-visible" style="top: -999px;"></div>'
+body_addon = '<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/Arley517693777/gotop/js/szgotop.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/gh/Arley517693777/gotop/js/jquery-3.2.1.min.js"></script><div class="back-to-top cd-top faa-float animated cd-is-visible" style="top: -999px;"></div>'
