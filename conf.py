@@ -88,7 +88,8 @@ head_addon = r'''
 <link rel="shortcut icon" href="https://arley517693777.github.io./favicon.ico">
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
-<script type="text/javascript" src="https://arley517693777.github.io./assets/jquery.1.4.2-min.js"></script>
+<link rel="stylesheet" type="text/css" href="css/szgotop.css" />
+<script src="https://qncdn.wanshifu.com/wshifu-user/js/jquery-3.2.1.min.js"></script>
 <script>
 var _hmt = _hmt || [];
 (function() {
@@ -102,4 +103,4 @@ var _hmt = _hmt || [];
 
 footer_addon = '本站总访问量<span id="busuanzi_value_site_pv"><i class="fa fa-spinner"></i></span> Hits'
 
-body_addon = '<script type="text/javascript" src="https://arley517693777.github.io./assets/scrolltopcontrol.js"></script>'
+body_addon = '<div class="back-to-top cd-top faa-float animated cd-is-visible" style="top: -900px;"></div></script><script type="text/javascript" src="https://arley517693777.github.io./assets/szgotop.js"></script>'
