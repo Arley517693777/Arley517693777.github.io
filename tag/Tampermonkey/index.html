@@ -59,8 +59,11 @@ $(function() {
 });
 </script>
 <script>
-$('[data-fancybox="gallery"]').fancybox({
+$( '[data-fancybox="images"]' ).fancybox({
 	protect:true,
+  	caption : function( instance, item ) {
+      return $(this).find('figcaption').html();
+  }
 });
 </script>
 <script>
