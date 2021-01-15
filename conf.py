@@ -105,13 +105,6 @@ var _hmt = _hmt || [];
 </script>
 '''
 
-footer_addon = '本站总访问量<span id="busuanzi_value_site_pv"><i class="fa fa-spinner"></i></span> Hits
-$("img").each(function () {
-   // $(this).attr("data-fancybox", "gallery");
-    var element = document.createElement("a");
-    $(element).attr("data-fancybox", "gallery");
-    $(element).attr("href", $(this).attr("src"));
-    $(this).wrap(element);
-});'
+footer_addon = '本站总访问量<span id="busuanzi_value_site_pv"><i class="fa fa-spinner"></i></span> Hits'
 
 body_addon = '<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/Arley517693777/gotop/js/szgotop.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/gh/Arley517693777/gotop/js/jquery-3.2.1.min.js"></script><div class="back-to-top cd-top faa-float animated cd-is-visible" style="top: -999px;"></div>'
