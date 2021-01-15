@@ -87,7 +87,6 @@ head_addon = r'''
 <link rel="dns-prefetch" href="//cdn.jsdelivr.net" />
 <link rel="shortcut icon" href="https://cdn.jsdelivr.net/gh/Arley517693777/Arley517693777.github.io/favicon.ico">
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Arley517693777/Arley517693777.github.io/assets/font-awesome.min.css">
 <!-- 悬挂的喵 -->
 <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/Arley517693777/gotop/css/szgotop.css" />
 <script>
@@ -101,7 +100,7 @@ var _hmt = _hmt || [];
 </script>
 '''
 
-footer_addon = '本站总访问量<span id="busuanzi_value_site_pv"><i class="fa fa-spinner"></i></span> Hits'
+footer_addon = '本站总访问量<span id="busuanzi_value_site_pv"></span> Hits'
 
 body_addon = r'''
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/Arley517693777/gotop/js/szgotop.js"></script>
