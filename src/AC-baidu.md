@@ -79,7 +79,7 @@ body[baidu] #s_lg_img_new{
 ### 代码预览样图
 
 ![baidu1](./images/baidu1.png)
-<a data-fancybox="gallery" href="baidu1.png"><img src="./images/baidu1.png"></a>
+<a data-fancybox="gallery" href="https://Arley517693777.github.io/archives/assets/baidu1.png"><img src="https://Arley517693777.github.io/archives/assets/baidu1.png"></a>
 ![baidu2](./images/baidu2.png)
 
 ![baidu3](./images/baidu3.png)
