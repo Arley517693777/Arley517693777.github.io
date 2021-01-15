@@ -111,16 +111,17 @@ var _hmt = _hmt || [];
 
 footer_addon = '本站总访问量<span id="busuanzi_value_site_pv"><i class="fa fa-spinner"></i></span> Hits'
 
-body_addon = '<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/Arley517693777/gotop/js/szgotop.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/gh/Arley517693777/gotop/js/jquery-3.2.1.min.js"></script><div class="back-to-top cd-top faa-float animated cd-is-visible" style="top: -999px;"></div><!-- Root element of PhotoSwipe. Must have class pswp. -->
+body_addon = r'''
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/Arley517693777/gotop/js/szgotop.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/Arley517693777/gotop/js/jquery-3.2.1.min.js"></script>
+<div class="back-to-top cd-top faa-float animated cd-is-visible" style="top: -999px;"></div>
+<!-- Root element of PhotoSwipe. Must have class pswp. -->
 <div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
-
     <!-- Background of PhotoSwipe. 
          It's a separate element as animating opacity is faster than rgba(). -->
     <div class="pswp__bg"></div>
-
     <!-- Slides wrapper with overflow:hidden. -->
     <div class="pswp__scroll-wrap">
-
         <!-- Container that holds slides. 
             PhotoSwipe keeps only 3 of them in the DOM to save memory.
             Don't modify these 3 pswp__item elements, data is added later on. -->
@@ -129,24 +130,15 @@ body_addon = '<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/Ar
             <div class="pswp__item"></div>
             <div class="pswp__item"></div>
         </div>
-
         <!-- Default (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed. -->
         <div class="pswp__ui pswp__ui--hidden">
-
             <div class="pswp__top-bar">
-
                 <!--  Controls are self-explanatory. Order can be changed. -->
-
                 <div class="pswp__counter"></div>
-
                 <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
-
                 <button class="pswp__button pswp__button--share" title="Share"></button>
-
                 <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
-
                 <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
-
                 <!-- Preloader demo https://codepen.io/dimsemenov/pen/yyBWoR -->
                 <!-- element will get class pswp__preloader--active when preloader is running -->
                 <div class="pswp__preloader">
@@ -157,26 +149,20 @@ body_addon = '<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/Ar
                     </div>
                 </div>
             </div>
-
             <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
                 <div class="pswp__share-tooltip"></div> 
             </div>
-
             <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
             </button>
-
             <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
             </button>
-
             <div class="pswp__caption">
                 <div class="pswp__caption__center"></div>
             </div>
-
         </div>
-
     </div>
-
-</div><script>
+</div>
+<script>
 (function (gallerySelector, itemSelector) {
     var openPhotoSwipe = function (galleryIndex, itemIndex) {
         var gallery = this.gallerys[galleryIndex];
@@ -243,7 +229,6 @@ body_addon = '<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/Ar
             this.gallerys.push(currentList);
         }
     }
-
     // parse picture index and gallery index from URL (#&pid=1&gid=2)
     var photoswipeParseHash = function () {
         var hash = window.location.hash.substring(1),
@@ -282,4 +267,5 @@ body_addon = '<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/Ar
     initPhotoSwipeFromDOM();
     openFromUrl();
 })('.pswp-gallery', '.pswp-item');
-</script>'
+</script>
+'''
