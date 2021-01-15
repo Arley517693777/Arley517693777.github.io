@@ -77,10 +77,14 @@ body[baidu] #s_lg_img_new{
 }
 ```
 ### 代码预览样图
-[photos]
-![](./images/baidu1.png)
-![](./images/baidu2.png)
-![](./images/baidu3.png)
-![](./images/google1.png)
-![](./images/google2.png)
-[/photos]
+
+![baidu1](./images/baidu1.png)
+
+![baidu2](./images/baidu2.png)
+
+![baidu3](./images/baidu3.png)
+
+![google1.png](./images/google1.png)
+
+![google2.png](./images/google2.png)
+
