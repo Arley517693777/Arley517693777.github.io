@@ -102,7 +102,7 @@ $(function() {
    })
 });
 </script>
-<script>
+<script id="rendered-js">
 $( '[data-fancybox="images"]' ).fancybox({
 	protect:true,
   	caption : function( instance, item ) {
