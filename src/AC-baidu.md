@@ -87,5 +87,3 @@ body[baidu] #s_lg_img_new{
 ![google1.png](./images/google1.png)
 
 ![google2.png](./images/google2.png)
-
-<figure class="pswp-item" style="flex: 88.88888888888889" data-pswp-pid="1"><img loading="lazy" width="1280" height="720" src="https://static.imalan.cn/file/image/post/breath-of-the-wild.jpg"><figcaption>塞尔达传说 · 旷野之息</figcaption></figure>
