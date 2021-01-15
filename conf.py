@@ -90,6 +90,10 @@ head_addon = r'''
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Arley517693777/Arley517693777.github.io/assets/font-awesome.min.css">
 <!-- 悬挂的喵 -->
 <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/Arley517693777/gotop/css/szgotop.css" />
+<!-- fancybox -->
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
 <script>
 var _hmt = _hmt || [];
 (function() {
@@ -99,6 +103,13 @@ var _hmt = _hmt || [];
   s.parentNode.insertBefore(hm, s);
 })();
 </script>
+$("img").each(function () {
+   // $(this).attr("data-fancybox", "gallery");
+    var element = document.createElement("a");
+    $(element).attr("data-fancybox", "gallery");
+    $(element).attr("href", $(this).attr("src"));
+    $(this).wrap(element);
+});
 '''
 
 footer_addon = '本站总访问量<span id="busuanzi_value_site_pv"><i class="fa fa-spinner"></i></span> Hits'
