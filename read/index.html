@@ -46,6 +46,17 @@
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 <!-- 悬挂的喵 -->
 <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/Arley517693777/gotop/css/szgotop.css" />
+<!-- FancyBox -->
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" />
+
+$(function() {
+   $(".yue figure img").each(function(i) {
+      if (!this.parentNode.href) {
+         $(this).wrap("<a href='" + this.src + "' data-fancybox='fancybox' data-caption='" + this.alt + "'></a>")
+      }
+   })
+});
 <script>
 var _hmt = _hmt || [];
 (function() {
@@ -176,6 +187,14 @@ var _hmt = _hmt || [];
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/Arley517693777/gotop/js/szgotop.js"></script>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/Arley517693777/gotop/js/jquery-3.2.1.min.js"></script>
 <div class="back-to-top cd-top faa-float animated cd-is-visible" style="top: -999px;"></div>
+<!-- FancyBox -->
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js"></script>
+<script type='text/javascript' src="https://cdn.staticfile.org/jquery/3.3.1/jquery.min.js"></script>
+$(document).ready(function() {
+   $("[data-fancybox]").fancybox({
+      protect:true,
+   })
+});
 
     </body>
 </html>
