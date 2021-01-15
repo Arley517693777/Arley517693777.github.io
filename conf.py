@@ -90,9 +90,9 @@ head_addon = r'''
 <!-- 悬挂的喵 -->
 <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/Arley517693777/gotop/css/szgotop.css" />
 <!-- FancyBox -->
-<script type='text/javascript' src="https://arley517693777.github.io/assets/jquery-3.3.1.min.js"></script>
-<link rel="stylesheet" href="https://arley517693777.github.io/assets/assets/jquery.fancybox.min.css" />
-<script type="text/javascript" src="https://arley517693777.github.io/assets/jquery.fancybox.min.js"></script>
+<script type='text/javascript' src="https://cdn.jsdelivr.net/gh/Arley517693777/Arley517693777.github.io/assets/jquery-3.3.1.min.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Arley517693777/Arley517693777.github.io/assets/jquery.fancybox.min.css" />
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/Arley517693777/Arley517693777.github.io/assets/jquery.fancybox.min.js"></script>
 <script>
 $(function() {
    $(".yue figure img").each(function(i) {
