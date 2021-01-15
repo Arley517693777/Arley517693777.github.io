@@ -90,7 +90,7 @@ head_addon = r'''
 <!-- 悬挂的喵 -->
 <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/Arley517693777/gotop/css/szgotop.css" />
 <!-- FancyBox -->
-<script type='text/javascript' src="https://cdn.staticfile.org/jquery/3.3.1/jquery.min.js"></script>
+<script type='text/javascript' src="https://cdn.jsdelivr.net/gh/Arley517693777/assets/jquery-3.4.1.min.js"></script>
 <link rel="stylesheet" href="https://cdn.staticfile.org/fancybox/3.5.7/jquery.fancybox.min.css" />
 <script type="text/javascript" src="https://cdn.staticfile.org/fancybox/3.5.7/jquery.fancybox.min.js"></script>
 <script>
@@ -124,6 +124,5 @@ footer_addon = '本站总访问量<span id="busuanzi_value_site_pv"></span> Hits
 
 body_addon = r'''
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/Arley517693777/gotop/js/szgotop.js"></script>
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/Arley517693777/gotop/js/jquery-3.2.1.min.js"></script>
 <div class="back-to-top cd-top faa-float animated cd-is-visible" style="top: -999px;"></div>
 '''
