@@ -104,8 +104,6 @@ $(function() {
 </script>
 <script id="rendered-js">
 $( '[data-fancybox="images"]' ).fancybox({
-	protect:true,
-	preventCaptionOverlap: true,
   	caption : function( instance, item ) {
       return $(this).find('figcaption').html();
   }
