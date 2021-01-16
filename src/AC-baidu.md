@@ -78,7 +78,7 @@ body[baidu] #s_lg_img_new{
 ```
 ### 代码预览样图
 
-![baidu1](./images/baidu1.png baidu1)
+![baidu1](./images/baidu1.png)[baidu1]
 
 ![baidu2](./images/baidu2.png)
 
