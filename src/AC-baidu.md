@@ -87,6 +87,3 @@ body[baidu] #s_lg_img_new{
 ![google1.png](./images/google1.png)
 
 ![google2.png](./images/google2.png)
-
-<a href="./images/baidu1.png" data-fancybox="images" data-caption="baidu1"><img src="./images/baidu1.png">
-</a>
