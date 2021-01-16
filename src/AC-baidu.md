@@ -87,8 +87,3 @@ body[baidu] #s_lg_img_new{
 ![google1.png](./images/google1.png)
 
 ![google2.png](./images/google2.png)
-
-<a href="https://cdn.jsdelivr.net/gh/Arley517693777/Arley517693777.github.io@master/archives/assets/5313c1c282ef5b7f2bea5d82b5142f06.png" data-fancybox="images">
-<img src="https://cdn.jsdelivr.net/gh/Arley517693777/Arley517693777.github.io@master/archives/assets/5313c1c282ef5b7f2bea5d82b5142f06.png">
-<figcaption>baidu1.png</figcaption>
-  </a>
