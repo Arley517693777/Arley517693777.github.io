@@ -93,20 +93,24 @@ head_addon = r'''
 <script type='text/javascript' src="https://cdn.jsdelivr.net/gh/Arley517693777/Arley517693777.github.io/assets/jquery-3.4.1.min.js"></script>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Arley517693777/Arley517693777.github.io/assets/jquery.fancybox.min.css" />
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/Arley517693777/Arley517693777.github.io/assets/jquery.fancybox.min.js"></script>
-<script>
-$(function() {
-   $(".yue figure img").each(function(i) {
-      if (!this.parentNode.href) {
-         $(this).wrap("<a href='" + this.src + "' data-fancybox='images' data-caption='" + this.title + "'></a>")
-      }
-   })
-});
+<script>  
+$(function () {  
+    $('.yue figure').find('img').each(  
+        function () {  
+        var _this = $(this);  
+        var _src = _this.attr("src");  
+	var _caption = _this.attr("figcaption"); 
+        $(this).wrap('<a href='" + this.src + "' data-fancybox='images' data-caption='" + this.figcaption + "'></a>')
+        }  
+    );  
+      
+})  
 </script>
 <script>
 $( '[data-fancybox]' ).fancybox({
 	protect:true,
 	caption : function( instance, item ) {
-	return $(this.parentNode.parentNode).find('figcaption').html();
+	return $(this).find('figcaption').html();
 	}
 });
 </script>
