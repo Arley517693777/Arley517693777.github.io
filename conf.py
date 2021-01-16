@@ -97,7 +97,7 @@ head_addon = r'''
 $(function() {
    $(".yue figure").each(function(i) {
       if (!this.parentNode.href) {
-         $(this).wrap("<a href='" + this.src + "' data-fancybox='images' data-caption='" + this.alt + "' + this.figcaption + "'></a>")
+         $(this).wrap("<a href='" + this.src + "' data-fancybox='images' data-caption='" + this.alt + "'><figcaption></figcaption></a>")
       }
    })
 });
