@@ -50,6 +50,15 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Arley517693777/Arley517693777.github.io/assets/jquery.fancybox.min.css" />
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/Arley517693777/Arley517693777.github.io/assets/jquery.fancybox.min.js"></script>
 <script>
+$(function() {
+   $(".yue figure img").each(function(i) {
+      if (!this.parentNode.href) {
+         $(this).wrap("<a href='" + this.src + "' data-fancybox='images' data-caption='" + this.alt + "'></a>")
+      }
+   })
+});
+</script>
+<script>
 $( '[data-fancybox]' ).fancybox({
 	protect:true,
 	caption : function( instance, item ) {
@@ -129,7 +138,7 @@ var _hmt = _hmt || [];
                                 本站总访问量<span id="busuanzi_value_site_pv"></span> Hits
                             </span>
                             <nav class="social-links">
-                                <ul><li><a class="no-style" title="GitHub" href="https://github.com/Arley517693777" target="_blank"><i class="gi gi-github"></i>GitHub</a></li></ul>
+                                <ul><li><a class="no-style" title=" " href=" " target="_blank"><i class=" "></i> </a></li></ul>
                             </nav>
                         </div>
                     </section>
