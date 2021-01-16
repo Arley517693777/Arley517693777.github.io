@@ -61,10 +61,11 @@ $(function() {
 </script>
 <script id="rendered-js">
 $( '[data-fancybox="images"]' ).fancybox({
-    protect:true,
-    preventCaptionOverlap: true,
-  	caption : function( instance, item ) {
-      return $(this).find('figcaption').html();
+  protect:true,
+  infobar : false,
+  caption : function( instance, item ) {
+    var caption = $(this).data('caption') || '';
+    return ( caption.length ? caption + '<br />' : '' ) + 'Image <span data-fancybox-index></span> of <span data-fancybox-count></span>';
   }
 });
 </script>
