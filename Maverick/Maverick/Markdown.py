@@ -222,7 +222,7 @@ class MyRenderer(mistune.Renderer, MathRendererMixin):
 
         def default_image(image):
             figcaption = image['title'] or image['alt'] or ''
-
+            data-caption = figcaption
             attr = 'data-width="%s" data-height="%s"' % (
                 image['width'], image['height'])
 
