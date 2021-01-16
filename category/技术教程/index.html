@@ -62,7 +62,7 @@ $(function() {
 $( '[data-fancybox]' ).fancybox({
 	protect:true,
 	caption : function( instance, item ) {
-	return $(this).find('title').html();
+	return $(this.parentNode.parentNode).find('figcaption').html();
 	}
 });
 </script>
