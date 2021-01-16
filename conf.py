@@ -97,7 +97,7 @@ head_addon = r'''
 $(function() {
    $(".yue figure img").each(function(i) {
       if (!this.parentNode.href) {
-         $(this).wrap("<a href='" + this.src + "' data-fancybox='images' data-caption='" + this.alt + "' + this.figcaption + "'></a>")
+         $(this).wrap("<a href='" + this.src + "' data-fancybox='images' data-caption='" + this.alt + "'></a>")
       }
    })
 });
@@ -106,7 +106,7 @@ $(function() {
 $( '[data-fancybox]' ).fancybox({
 	protect:true,
 	caption : function( instance, item ) {
-	return $(this).find('figcaption').html();
+	return $(".yue figure").find('figcaption').html();
 	}
 });
 </script>
