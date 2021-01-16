@@ -94,15 +94,6 @@ head_addon = r'''
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Arley517693777/Arley517693777.github.io/assets/jquery.fancybox.min.css" />
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/Arley517693777/Arley517693777.github.io/assets/jquery.fancybox.min.js"></script>
 <script>
-$(function() {
-   $(".yue figure img figcaption").each(function(i) {
-      if (!this.parentNode.href) {
-         $(this).wrap("<a href='" + this.src + "' data-fancybox='images' data-caption='" + this.figcaption + "'></a>")
-      }
-   })
-});
-</script>
-<script>
 $( '[data-fancybox]' ).fancybox({
 	protect:true,
 	caption : function( instance, item ) {
