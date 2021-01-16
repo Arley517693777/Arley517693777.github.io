@@ -102,7 +102,7 @@ $(function() {
    })
 });
 </script>
-<script id="rendered-js">
+<script>
 $( '[data-fancybox="images"]' ).fancybox({
   protect:true,
   infobar : false,
