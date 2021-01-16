@@ -59,13 +59,11 @@ $(function() {
 });
 </script>
 <script>
-$( '[data-fancybox="images"]' ).fancybox({
-  protect:true,
-  infobar : false,
-  caption : function( instance, item ) {
-    var caption = $(this).data('caption') || '';
-    return ( caption.length ? caption + '<br />' : '' ) + 'Image <span data-fancybox-index></span> of <span data-fancybox-count></span>';
-  }
+$( '[data-fancybox]' ).fancybox({
+    protect:true,
+	caption : function( instance, item ) {
+		return $(this).find('figcaption').html();
+	}
 });
 </script>
 <script>
