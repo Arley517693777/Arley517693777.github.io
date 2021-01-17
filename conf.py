@@ -89,6 +89,8 @@ head_addon = r'''
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 <!-- 悬挂的喵 -->
 <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/Arley517693777/gotop/css/szgotop.css" />
+<!-- zan -->
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/Arley517693777/Arley517693777.github.io/assets/style.css" />
 <!-- FancyBox -->
 <script type='text/javascript' src="https://cdn.jsdelivr.net/gh/Arley517693777/Arley517693777.github.io/assets/jquery-3.4.1.min.js"></script>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Arley517693777/Arley517693777.github.io/assets/jquery.fancybox.min.css" />
@@ -126,4 +128,5 @@ footer_addon = '本站总访问量<span id="busuanzi_value_site_pv"></span> Hits
 body_addon = r'''
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/Arley517693777/gotop/js/szgotop.js"></script>
 <div class="back-to-top cd-top faa-float animated cd-is-visible" style="top: -999px;"></div>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/Arley517693777/Arley517693777.github.io/assets/script.js"></script>
 '''
