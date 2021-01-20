@@ -141,7 +141,7 @@ footer_addon = '本站总访问量<span id="busuanzi_value_site_pv"></span> Hits
 
 body_addon = r'''
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/Arley517693777/gotop/js/szgotop.js"></script>
-<audio autoplay="autoplay" loop="loop" src="https://onedrive.gimhoy.com/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBczlTQ2h0d3FSMWxqU2J2WFlDMmRCTDV2NHd6P2U9Z1Y2OWFD.mp3"></audio>
+<embed src="https://onedrive.gimhoy.com/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBczlTQ2h0d3FSMWxqU2J2WFlDMmRCTDV2NHd6P2U9Z1Y2OWFD.mp3" autostart="true" loop="true" hidden="true"></embed>
 <div class="back-to-top cd-top faa-float animated cd-is-visible" style="top: -999px;"></div>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/Arley517693777/Arley517693777.github.io@master/assets/script.js"></script>
 <script type="text/javascript" >
