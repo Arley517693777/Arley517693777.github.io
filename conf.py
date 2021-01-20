@@ -84,15 +84,15 @@ valine = {
 
 head_addon = r'''
 <meta http-equiv="x-dns-prefetch-control" content="on">
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/Arley517693777/Arley517693777.github.io@master/assets/jquery.pjax.js"></script>
 <link rel="dns-prefetch" href="//cdn.jsdelivr.net" />
+<script type='text/javascript' src="https://cdn.jsdelivr.net/gh/Arley517693777/Arley517693777.github.io@master/assets/jquery-3.4.1.min.js"></script>
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/Arley517693777/Arley517693777.github.io@master/assets/jquery.pjax.js"></script>
 <!-- 悬挂的喵 -->
 <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/Arley517693777/gotop/css/szgotop.css" />
 <!-- zan -->
 <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/Arley517693777/Arley517693777.github.io@master/assets/style.css" />
 <!-- FancyBox -->
-<script type='text/javascript' src="https://cdn.jsdelivr.net/gh/Arley517693777/Arley517693777.github.io@master/assets/jquery-3.4.1.min.js"></script>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Arley517693777/Arley517693777.github.io@master/assets/jquery.fancybox.min.css" />
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/Arley517693777/Arley517693777.github.io@master/assets/jquery.fancybox.min.js"></script>
 <script>
