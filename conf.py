@@ -86,9 +86,7 @@ head_addon = r'''
 <meta http-equiv="x-dns-prefetch-control" content="on">
 <link rel="dns-prefetch" href="//cdn.jsdelivr.net" />
 <script type='text/javascript' src="https://cdn.jsdelivr.net/gh/Arley517693777/Arley517693777.github.io@master/assets/jquery-3.4.1.min.js"></script>
-<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/Arley517693777/Arley517693777.github.io@master/assets/jquery.pjax.js"></script>
-<!-- 悬挂的喵 -->
+<!-- szgotop -->
 <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/Arley517693777/gotop/css/szgotop.css" />
 <!-- zan -->
 <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/Arley517693777/Arley517693777.github.io@master/assets/style.css" />
@@ -103,19 +101,6 @@ $(function() {
       }
    })
 });
-</script>
-
-<script type="text/javascript">
-$.pjax({
-  selector: 'a',
-  container: '#container',
-  show: 'fade',
-  cache: true,
-  storage: true,
-  titleSuffix: '',
-  filter: function(){},
-  callback: function(){}
-})
 </script>
 <script type="text/javascript">
 $( '[data-fancybox]' ).fancybox({
@@ -134,30 +119,12 @@ var _hmt = _hmt || [];
   s.parentNode.insertBefore(hm, s);
 })();
 </script>
-
 '''
 
-footer_addon = '本站总访问量<span id="busuanzi_value_site_pv"></span> Hits'
+footer_addon = ''
 
 body_addon = r'''
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/Arley517693777/gotop/js/szgotop.js"></script>
 <div class="back-to-top cd-top faa-float animated cd-is-visible" style="top: -999px;"></div>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/Arley517693777/Arley517693777.github.io@master/assets/script.js"></script>
-<script type="text/javascript" >
-if (!!window.localStorage) {
-    for (var key in localStorage) {
-        try {
-            if ((key.split("_") || [""])[0] === "pjax") {
-                var item = localStorage.getItem(key);
-                if (item) {
-                    item = JSON.parse(item);
-                    if ((parseInt(item.time) + 600 * 1000) <= new Date * 1) {
-                        localStorage.removeItem(key)
-                    }
-                }
-            }
-        } catch (e) { }
-    }
-}
-</script>
 '''
