@@ -44,7 +44,7 @@ excerpt: 科学上网,知识分享!
 
 ### 2.安装谷歌上网助手（Ghelper）
 
-官方网站：[http://googlehelper.net/](http://googlehelper.net/"谷歌上网助手（Ghelper）")
+官方网站：[http://googlehelper.net/](http://googlehelper.net/ "谷歌上网助手（Ghelper）")
 
 下载之后解压待用，打开你的Chrome浏览器-更多工具-扩展程序页面，或者
 
