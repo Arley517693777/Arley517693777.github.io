@@ -64,19 +64,6 @@ nav = [
     }
 ]
 
-social_links = [
-    {
-        "name": "Telegram",
-        "url": "https://t.me/Arley_cn",
-        "icon": "fa fa-telegram"
-    },
-    {
-        "name": "GitHub",
-        "url": "https://github.com/Arley517693777",
-        "icon": "gi gi-github"
-    }
-]
-
 valine = {
     "enable": True,
     "el": '#vcomments',
