@@ -68,7 +68,7 @@ social_links = [
     {
         "name": "Telegram",
         "url": "https://t.me/Arley_cn",
-        "icon": "gi gi-telegram"
+        "icon": "fa fa-telegram"
     },
     {
         "name": "GitHub",
